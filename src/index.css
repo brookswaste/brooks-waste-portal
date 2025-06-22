@@ -118,3 +118,9 @@ html, body, #root {
   box-sizing: border-box;
   padding: 1.5rem;  /* adds space inside all sides */
 }
+.site-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  box-sizing: border-box;
+}
